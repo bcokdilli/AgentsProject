@@ -52,4 +52,4 @@ Contributing
 We welcome contributions! Please open an issue to discuss any changes before submitting a pull request.
 
 Contact
-For questions, you can reach me at b.cokdilli@hotmail.com.tr.
+For questions, you can reach me at [b.cokdilli@hotmail.com.tr](mailto:b.cokdilli@hotmail.com.tr).
